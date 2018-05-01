@@ -2,6 +2,7 @@
 
 class HTTPHeader(object):
 	HOST = 'Host'
+	RANGE = 'Range'
 
 class DownloadRequest(object):
 	
